@@ -28,17 +28,13 @@ body{
     background-color: rgb(27, 99, 84);
 }
 
-/* #box2{
-    background-color: rgba(27, 113, 187, 0.618) ;
-    align-items: center;
-    jusify
-} */
+
 
 #box{
     width: 40%;
     padding: 15px;
     box-shadow: 0ps 0px 5px grey;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255,0.7);
     border-radius: 5px;
 }
 
